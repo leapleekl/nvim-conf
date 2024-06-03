@@ -3,9 +3,8 @@
 **NOTE:** This is for Lazyvim
 
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Refer to the [documentation](https://lazyvim.github.io/installation) / [lazy](https://www.lazyvim.org/installation) to get started.
 
-A program for getting started with [lazy](https://www.lazyvim.org/installation)
 
 ## 🛠️ Installation
 
