@@ -71,8 +71,6 @@ vim.opt.termguicolors = true
 -- Display of invisible characters, here only spaces are displayed as a dot
 vim.o.list = true
 vim.o.listchars = "space:·,tab:··"
--- Completion enhancement
-vim.o.wildmenu = true
 -- Don't pass messages to |ins-completin menu|
 vim.o.shortmess = vim.o.shortmess .. "c"
 -- Completion displays up to 10 lines
